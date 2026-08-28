@@ -1,6 +1,6 @@
 # SQL Datawarehouse using Medallion Architecture
 
-Welcome to the **SQL Datawarehouse using Medallion Architecture** repository! 🚀  
+Hey everyone, I am Tanishq! I wanted to build this as I always wanted to know how does data actually flow in industries. Although this is not enterprise grade, I have plans on making this enterprise grade by using Cloud Technologies later on!  
 ---
 ## 🏗️ Data Architecture
 
@@ -72,6 +72,3 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----
-
-e&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
