@@ -1,6 +1,4 @@
 # SQL Datawarehouse using Medallion Architecture
-
-Hey everyone, I am Tanishq! I wanted to build this as I always wanted to know how does data actually flow in industries. Although this is not enterprise grade, I have plans on making this enterprise grade by using Cloud Technologies later on!  
 ---
 ## 🏗️ Data Architecture
 
