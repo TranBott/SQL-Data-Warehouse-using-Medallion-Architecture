@@ -1,6 +1,6 @@
-# Data Warehouse and Analytics Project
+# SQL Datawarehouse using Medallion Architecture
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Welcome to the **SQL Datawarehouse using Medallion Architecture** repository! 🚀  
 ---
 ## 🏗️ Data Architecture
 
